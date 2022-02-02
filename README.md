@@ -1,5 +1,5 @@
 <!--
-**JesseMacielJr/JesseMacielJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luizalaquini/luizalaquini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1>Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiza Batista Laquini</h1>
 <h3>A computer engineering student learning new things everyday, all the time!</h3>
@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning Front-End contents.
 
-- 📫 Other places you can find me:
-
-<a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+- 📫 Other places you can find me: <a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/LuizaLaquini" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="30" /></a>
 
