@@ -25,6 +25,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="assembly"/>
 </p>
 
+ ### GitHub Analytics:
+        
+ <p align="left">
+  <a href="https://github.com/luizalaquini">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=luizalaquini&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalaquini&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</p>
+
 <!--
 Here are some ideas to get you started:
 
