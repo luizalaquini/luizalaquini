@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-JAVASCRIPT-FFFFFF?style=for-the-badge&logo=javascript" alt="javascript"/>
 <img src="https://img.shields.io/badge/-C-FFFFFF?style=for-the-badge&logo=c&logoColor=1572B6" alt="c"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cpp"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
+<img src="https://img.shields.io/badge/-JAVA-FFFFFF?style=for-the-badge&logo=java&logoColor=800000" alt="java"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="assembly"/>
 </p>
 
