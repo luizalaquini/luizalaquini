@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a> &nbsp;
 <a href="https://www.youtube.com/c/LuizaLaquini" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="23" width="23" /></a>
 
-- ⚡ Some languages that you will find on my repositories:
+- ⚡ Some languages that you can find on my repositories:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
