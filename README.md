@@ -19,10 +19,10 @@
 <img src="https://img.shields.io/badge/-HTML-FFFFFF?style=for-the-badge&logo=html5" alt="html5"/>
 <img src="https://img.shields.io/badge/-CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css3"/>
 <img src="https://img.shields.io/badge/-JAVASCRIPT-FFFFFF?style=for-the-badge&logo=javascript" alt="javascript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cpp" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="assembly" width="30" height="30"/>
+<img src="https://img.shields.io/badge/-C-FFFFFF?style=for-the-badge&logo=c&logoColor=1572B6" alt="c"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cpp"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="assembly"/>
 </p>
 
 <!--
