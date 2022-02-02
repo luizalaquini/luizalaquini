@@ -17,8 +17,8 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML-FFFFFF?style=for-the-badge&logo=html5" alt="html5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://img.shields.io/badge/-CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css3"  width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cpp" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
