@@ -5,12 +5,12 @@
 <h3>A computer engineering student learning new things everyday, all the time!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizalaquini&style=flat-square&color=blueviolet" alt="luizalaquini" /> </p>
 
-- 😄 Pronouns: Lu; lulis;
+- 😄 Pronouns: lulis or just lu;
 
 - 🌱 I’m currently learning Front-End contents.
 
-- 📫 Other places you can find me:  <a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="23" width="23" /></a>
-<a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a>
+- 📫 Other places you can find me: &ensp; <a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="23" width="23" /></a> &ensp;
+<a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a> &ensp;
 <a href="https://www.youtube.com/c/LuizaLaquini" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="23" width="23" /></a>
 
 - ⚡ Here are some languages that you will find on my repositories:
