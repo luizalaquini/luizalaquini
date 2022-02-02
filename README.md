@@ -1,9 +1,9 @@
 <!--
 **JesseMacielJr/JesseMacielJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiza Batista Laquini</h1>
-<h3 align="center">A computer engineering student learning new things everyday, all the time!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizalaquini&style=flat-square&color=blueviolet" alt="luizalaquini" /> </p>
+<h1>Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiza Batista Laquini</h1>
+<h3>A computer engineering student learning new things everyday, all the time!</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizalaquini&style=flat-square&color=blueviolet" alt="luizalaquini" /> </p>
 
 <!-- 
 - 🔭 I'm currently working on new websites just for pratice 
