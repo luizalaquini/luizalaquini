@@ -11,30 +11,19 @@
 
 - 🌱 I’m currently learning Front-End contents 
 
-- 📫 How to reach me: **Instagram: @luizalaquini**
-
-- ⚡ Fun fact **Error**
+- ⚡ Here are some languages that you will find on my repositories:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jesse-junior/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/164675/jess%c3%a9-j%c3%banior" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://facebook.com/jesse.junior.444" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="JesseMacielJr" height="20" width="20" /></a>
-<a href="https://instagram.com/jesse.jr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="JesseMacielJr" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/LuizaLaquini" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="30" width="30" /></a>
 </p>
-
-## **GitHub Stats**
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseMacielJr&theme=merko&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesseMacielJr&show_icons=true&theme=merko&line_height=27" alt="**JesseMacielJr** github stats"/>
-</a>
 
 <!--
 Here are some ideas to get you started:
