@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning Front-End contents.
 
-- 📫 Other places you can find me: &ensp; <a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="23" width="23" /></a> &ensp;
-<a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a> &ensp;
+- 📫 Other places you can find me: &nbsp; <a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="23" width="23" /></a> &nbsp;
+<a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a> &nbsp;
 <a href="https://www.youtube.com/c/LuizaLaquini" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="23" width="23" /></a>
 
 - ⚡ Here are some languages that you will find on my repositories:
