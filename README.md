@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=25 height=25 alt="javascript"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=25 alt="c"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=25 height=25 alt="cpp"/>
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width=25 height=25 alt="java"/>
+<img src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6ddcc295-ee36-4a7f-be1a-ebeb192bacd5.jpg" height=25 alt="java"/>
 </p>
 
  ### GitHub Analytics:
