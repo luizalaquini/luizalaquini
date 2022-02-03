@@ -16,7 +16,7 @@
 - ⚡ Some languages that you can find on my repositories:
 
 <p align="left">
-<img src="C:/Usuários/luiza/Imagens/ícones/c.svg" width=25 height=25 alt="html5"/>
+<img src="file:///C:/Users/luiza/Pictures/%C3%ADcones/c.svg" width=25 height=25 alt="html5"/>
 <img src="https://img.shields.io/badge/-CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" height=25 alt="css3"/>
 <img src="https://img.shields.io/badge/-JAVASCRIPT-FFFFFF?style=for-the-badge&logo=javascript" height=25 alt="javascript"/>
 <img src="https://img.shields.io/badge/-C-FFFFFF?style=for-the-badge&logo=c&logoColor=1572B6" height=25 alt="c"/>
