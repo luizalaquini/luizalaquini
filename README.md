@@ -16,8 +16,8 @@
 - ⚡ Some languages that you can find on my repositories:
 
 <p align="left">
-<img src="file:///C:/Users/luiza/Pictures/%C3%ADcones/html5.svg" width=25 height=25 alt="html5"/>
-<img src="https://img.shields.io/badge/-CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" height=25 alt="css3"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" height=25 alt="html5"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=25 alt="css3"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=25 height=25 alt="javascript"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=25 alt="c"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=25 height=25 alt="cpp"/>
