@@ -13,16 +13,19 @@
 <a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a> &nbsp;
 <a href="https://www.youtube.com/c/LuizaLaquini" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="23" width="23" /></a>
 
-- ⚡ Some languages that you can find on my repositories:
-
-<p align="left">
+- ⚡ Some languages that you can find on my repositories: 
+&nbsp 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" height=25 alt="html5"/>
+&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=25 alt="css3"/>
+&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=25 height=25 alt="javascript"/>
+&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=25 alt="c"/>
+&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=25 height=25 alt="cpp"/>
+&nbsp
 <img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" height=25 alt="java"/>
-</p>
 
  ### GitHub Analytics:
         
