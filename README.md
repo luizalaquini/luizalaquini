@@ -19,7 +19,7 @@
 <img src="file:///C:/Users/luiza/Pictures/%C3%ADcones/html5.svg" width=25 height=25 alt="html5"/>
 <img src="https://img.shields.io/badge/-CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" height=25 alt="css3"/>
 <img src="https://img.shields.io/badge/-JAVASCRIPT-FFFFFF?style=for-the-badge&logo=javascript" height=25 alt="javascript"/>
-<img src="https://iconscout.com/icon/c-57" height=25 alt="c"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=25 alt="c"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=25 height=25 alt="cpp"/>
 <img src="https://img.shields.io/badge/-JAVA-FFFFFF?style=for-the-badge&logo=java&logoColor=800000" height=25 alt="java"/>
 </p>
