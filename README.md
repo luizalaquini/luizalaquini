@@ -1,11 +1,13 @@
 <!--
 **luizalaquini/luizalaquini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Luiza</h1>
-<h3>Estudante de Engenharia de Computação aprendendo coisas novas todos os dias, o tempo todo!</h3>
+<h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Luiza.</h1>
+<h3>Aprendendo coisas novas todos os dias, o tempo todo!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizalaquini&style=flat-square&color=blueviolet" alt="luizalaquini" /> </p>
 
-- 🌱 Atualmente estou aprendendo conteúdo Front-End.
+- 📚 Sou estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
+
+- 🌱 Atualmente estou buscando e aprendendo conteúdo Front-End.
 
 - 📫 Outros lugares onde você pode me encontrar: &nbsp; <a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="23" width="23" /></a> &nbsp;
 <a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a> &nbsp;
