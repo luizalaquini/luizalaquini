@@ -7,7 +7,7 @@
 
 - 📚 Sou estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
 
-- 🌱 Atualmente estou buscando e aprendendo conteúdo Front-End.
+- 🌱 Atualmente estou buscando e praticando conteúdo Front-End.
 
 - ⚡ Linguagens presentes nos meus repositórios: &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" height=20 alt="html5"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=20 alt="css3"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=20 height=20 alt="javascript"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=20 alt="c"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=20 height=20 alt="cpp"/> &nbsp; <img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" height=20 alt="java"/> 
 
