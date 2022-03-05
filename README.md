@@ -2,22 +2,39 @@
 **luizalaquini/luizalaquini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Luiza.</h1>
-<h3>Aprendendo coisas novas todos os dias, o tempo todo!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizalaquini&style=flat-square&color=blueviolet" alt="luizalaquini" /> </p>
 
-- 📚 Sou estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
+- 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
 
-- 🌱 Atualmente estou aprendendo conteúdo Front-End e breve irei estender para Full-Stack.
+- 💻 Estagiária de Desenvolvimento Web.
 
-- ⚡ Linguagens presentes nos meus repositórios: &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" height=20 alt="html5"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=20 alt="css3"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=20 height=20 alt="javascript"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=20 alt="c"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=20 height=20 alt="cpp"/> &nbsp; <img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" height=20 alt="java"/> 
+- 🌱 Aprendendo conteúdo Front-End.
 
 - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
 
-- 📫 Outros lugares onde você pode me encontrar: &nbsp; <a href="https://www.linkedin.com/in/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="23" width="23" /></a> &nbsp;
-<a href="https://www.instagram.com/luizalaquini/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="23" width="23" /></a> &nbsp;
-<a href="https://www.youtube.com/c/LuizaLaquini" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="23" width="23" /></a>
+### Linguagens
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DC322F?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
- ### GitHub Analytics:
+### Ferramentas
+VS Code, Figma, Trello e GitHub.
+
+### Sistemas Operacionais
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+ 
+### Social
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+ 
+### GitHub Analytics:
         
  <p align="left">
   <a href="https://github.com/luizalaquini">
