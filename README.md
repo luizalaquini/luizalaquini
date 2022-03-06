@@ -19,18 +19,18 @@
    Linguagens
 </h3>
 
- ![C](https://img.shields.io/badge/C-ef0bff?style=for-the-badge&logo=c&logoColor=white)
- ![CPP](https://img.shields.io/badge/C%2B%2B-ef0bff?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-ef0bff?style=for-the-badge&logo=java&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5-ef0bff?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-ef0bff?style=for-the-badge&logo=css3&logoColor=white)
- ![Javascript](https://img.shields.io/badge/JavaScript-ef0bff?style=for-the-badge&logo=javascript&logoColor=white)
- ![Jquery](https://img.shields.io/badge/jQuery-ef0bff?style=for-the-badge&logo=jquery&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-ef0bff?style=for-the-badge&logo=python&logoColor=white)
+ ![C](https://img.shields.io/badge/C-f053fd?style=for-the-badge&logo=c&logoColor=white)
+ ![CPP](https://img.shields.io/badge/C%2B%2B-f053fd?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-f053fd?style=for-the-badge&logo=java&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/HTML5-f053fd?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-f053fd?style=for-the-badge&logo=css3&logoColor=white)
+ ![Javascript](https://img.shields.io/badge/JavaScript-f053fd?style=for-the-badge&logo=javascript&logoColor=white)
+ ![Jquery](https://img.shields.io/badge/jQuery-f053fd?style=for-the-badge&logo=jquery&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-f053fd?style=for-the-badge&logo=python&logoColor=white)
 
 <h3 align="left"> 
    Social
 </h3>
 
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-ef0bff?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Instagram](https://img.shields.io/badge/Instagram-ef0bff?style=for-the-badge&logo=instagram&logoColor=white) 
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white) 
