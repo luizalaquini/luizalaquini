@@ -10,7 +10,7 @@
 
  - 💻 Estagiária de Desenvolvimento Web.
 
- - 🌱 Aprendendo conteúdo Front-End.
+ - 🌱 Aprendendo Bootstrap e aprofundando em Python
 
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
  </p>
