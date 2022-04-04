@@ -15,6 +15,13 @@
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
    
  </p>
+ 
+ <h3 align="left"> 
+   Social
+</h3>
+
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white)
 
 <h3 align="left">
    Linguagens
@@ -28,10 +35,3 @@
  ![Javascript](https://img.shields.io/badge/JavaScript-f053fd?style=for-the-badge&logo=javascript&logoColor=white)
  ![Jquery](https://img.shields.io/badge/jQuery-f053fd?style=for-the-badge&logo=jquery&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-f053fd?style=for-the-badge&logo=java&logoColor=white)
-
- <h3 align="left"> 
-   Social
-</h3>
-
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white) 
