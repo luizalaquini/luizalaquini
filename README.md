@@ -5,7 +5,6 @@
 <img src="luiza-finalizado.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-   <br>
  
  - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
 
