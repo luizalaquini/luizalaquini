@@ -2,7 +2,7 @@
    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Luiza.
 </h1>
 
-<img src="luiza-finalizado.png" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="luiza-finalizado.png" min-width="600px" max-width="600px" width="600px" align="right">
 
 <p align="left">
  <br>
@@ -15,7 +15,7 @@
 
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
    
-   <br><br><br>
+   <br><br>
  </p>
 
 <h3 align="left">
