@@ -2,9 +2,10 @@
    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Luiza.
 </h1>
 
-<img src="luiza-finalizado.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="luiza-finalizado.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left">
+ <br>
  
  - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
 
@@ -13,6 +14,8 @@
  - 🌱 Aprendendo Bootstrap e aprofundando em Python
 
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
+   
+   <br><br><br>
  </p>
 
 <h3 align="left">
