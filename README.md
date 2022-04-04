@@ -3,6 +3,8 @@
 </h1>
 
 <p align="left">
+   
+ <img src="luiza-editado.png" min-width="400px" max-width="400px" width="400px" align="right">
  
  - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
 
@@ -13,9 +15,6 @@
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
    
  </p>
- 
- <img src="luiza-finalizado.png" min-width="550px" max-width="550px" width="550px" align="left">
- <br>
 
 <h3 align="left">
    Linguagens
