@@ -2,8 +2,9 @@
    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Luiza.
 </h1>
 
-<img src="luiza-finalizado.png" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="luiza-finalizado.png" min-width="600px" max-width="600px" width="600px" align="right">
 
+<br>
 <p align="left">
  
  - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
