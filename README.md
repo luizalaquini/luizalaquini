@@ -2,9 +2,6 @@
    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Luiza.
 </h1>
 
-<img src="luiza-finalizado.png" min-width="600px" max-width="600px" width="600px" align="right">
-
-<br>
 <p align="left">
  
  - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
@@ -17,12 +14,7 @@
    
  </p>
  
- <h3 align="left"> 
-   Social
-</h3>
-
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white) 
+ <img src="luiza-finalizado.png" min-width="600px" max-width="600px" width="600px" align="right">
 
 <h3 align="left">
    Linguagens
@@ -36,3 +28,10 @@
  ![Javascript](https://img.shields.io/badge/JavaScript-f053fd?style=for-the-badge&logo=javascript&logoColor=white)
  ![Jquery](https://img.shields.io/badge/jQuery-f053fd?style=for-the-badge&logo=jquery&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-f053fd?style=for-the-badge&logo=java&logoColor=white)
+
+ <h3 align="left"> 
+   Social
+</h3>
+
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white) 
