@@ -14,7 +14,7 @@
    
  </p>
  
- <img src="luiza-finalizado.png" min-width="600px" max-width="600px" width="600px" align="right">
+ <img src="luiza-finalizado.png" min-width="450px" max-width="450px" width="450px" align="right">
 
 <h3 align="left">
    Linguagens
