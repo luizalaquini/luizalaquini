@@ -4,7 +4,7 @@
 
 <p align="left">
    
- <br><img src="luiza-editado-2.png" min-width="400px" max-width="400px" width="400px" align="right"><br>
+<img src="luiza-editado-2.png" min-width="400px" max-width="400px" width="400px" align="right"><br>
  
  - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
 
