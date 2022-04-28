@@ -10,18 +10,13 @@
 
  - 💻 Estagiária de Desenvolvimento Front-End.
 
- - 🌱 Aprendendo ReactJs e aprofundando em Bootstrap e Python.
+ - 🌱 Aprendendo React.Js e Next.Js.
+   
+ - 🌳 Aprofundando em Bootstrap e Python.
 
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
    
  </p>
- 
-<h3 align="left"> 
-   Social
-</h3>
-
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
- ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white)
 
 <h3 align="left">
    Linguagens
@@ -41,3 +36,10 @@
 </h3>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-f053fd?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h3 align="left"> 
+   Social
+</h3>
+
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-f053fd?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![Instagram](https://img.shields.io/badge/Instagram-f053fd?style=for-the-badge&logo=instagram&logoColor=white)
