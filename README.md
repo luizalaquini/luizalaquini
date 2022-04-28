@@ -8,9 +8,9 @@
  
  - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
 
- - 💻 Estagiária de Desenvolvimento Web.
+ - 💻 Estagiária de Desenvolvimento Front-End.
 
- - 🌱 Aprendendo Bootstrap e aprofundando em Python.
+ - 🌱 Aprendendo ReactJs e aprofundando em Bootstrap e Python.
 
  - 💬 Sugestões e críticas construtivas são sempre muito bem-vindas!
    
@@ -32,8 +32,12 @@
  ![Python](https://img.shields.io/badge/Python-f053fd?style=for-the-badge&logo=python&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML5-f053fd?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-f053fd?style=for-the-badge&logo=css3&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-f053fd?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Javascript](https://img.shields.io/badge/JavaScript-f053fd?style=for-the-badge&logo=javascript&logoColor=white)
  ![Jquery](https://img.shields.io/badge/jQuery-f053fd?style=for-the-badge&logo=jquery&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-f053fd?style=for-the-badge&logo=java&logoColor=white)
  
+<h3 align="left">
+   Frameworks 
+</h3>
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-f053fd?style=for-the-badge&logo=bootstrap&logoColor=white)
