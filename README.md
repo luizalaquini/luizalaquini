@@ -38,6 +38,7 @@ Seja bem-vindo ao meu GitHub!
 </h3>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-f053fd?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-f053fd?style=for-the-badge&logo=react&logoColor=fff)
 
 <h3 align="left"> 
    Social
