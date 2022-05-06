@@ -32,6 +32,7 @@ Seja bem-vindo ao meu GitHub!
  ![Javascript](https://img.shields.io/badge/JavaScript-f053fd?style=for-the-badge&logo=javascript&logoColor=white)
  ![Jquery](https://img.shields.io/badge/jQuery-f053fd?style=for-the-badge&logo=jquery&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-f053fd?style=for-the-badge&logo=java&logoColor=white)
+ ![Assembly](https://img.shields.io/badge/Assembly-f053fd?style=for-the-badge)
  
 <h3 align="left">
    Frameworks 
