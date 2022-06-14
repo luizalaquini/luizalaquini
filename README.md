@@ -1,5 +1,5 @@
 <h1 align="left">
-   Oi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" heigth="30px" width="30px">, eu sou a Lu!
+   Oi!👋, eu sou a Lu!
 </h1>
 
 <p align="left">
