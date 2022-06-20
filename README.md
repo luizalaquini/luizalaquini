@@ -8,7 +8,7 @@
    
 Seja bem-vindo ao meu GitHub!
  
- - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo.
+ - 📚 Estudante de Engenharia de Computação na Universidade Federal do Espírito Santo (UFES).
 
  - 💻 Estagiária de Desenvolvimento Front-End.
 
