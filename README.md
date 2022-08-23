@@ -47,3 +47,9 @@ Seja bem-vindo ao meu GitHub!
 
  ![LinkedIn](https://img.shields.io/badge/LinkedIn-b85614?style=for-the-badge&logo=linkedin&logoColor=white)
  ![Instagram](https://img.shields.io/badge/Instagram-b85614?style=for-the-badge&logo=instagram&logoColor=white)
+ 
+ ## Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
+<p align='center'>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=luizalaquini&show_icons=true&count_private=true&theme=dark" width=350></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalaquini&layout=compact&theme=dark" width=293></a>
+</p>
