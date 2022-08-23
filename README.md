@@ -1,5 +1,5 @@
 <h1 align="left">
-   Hey!👋, my name is Luiza!
+   Hey! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35>, my name is Luiza!
 </h1>
 
 <p align="left">
@@ -30,7 +30,7 @@ Welcome to my GitHub...
  ![Java](https://img.shields.io/badge/Java-b85614?style=for-the-badge&logo=java&logoColor=white)
  ![Assembly](https://img.shields.io/badge/Assembly-b85614?style=for-the-badge)
  
-<h3 align="left">Frameworks</h3>
+<h3 align="left">Frameworks and Workspaces</h3>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-b85614?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-b85614?style=for-the-badge&logo=react&logoColor=fff)
@@ -39,6 +39,7 @@ Welcome to my GitHub...
 ![Postman](https://img.shields.io/badge/Postman-b85614?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-b85614.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-b85614.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-b85614.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <h3 align="left">Others</h3>
 
