@@ -10,8 +10,6 @@ Welcome to my GitHub...
  
  - 📚 Computer Engineering student at Universidade Federal do Espírito Santo (UFES).
 
- - 💻 Front-End Development Intern at Vila Apps.
-
  - 🌱 Learning Python.
 
  - 💬 Suggestions and constructive criticism is always welcome!
