@@ -21,5 +21,5 @@ Welcome to my GitHub...
  ### Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
 <p align='center' gap='30px'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=luizalaquini&show_icons=true&count_private=true&theme=dark" width=380></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalaquini&layout=compact&theme=dark" width=310></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalaquini&layout=compact&theme=dark" width=289></a>
 </p>
