@@ -12,7 +12,7 @@ Welcome to my GitHub...
 
  - 🌱 IoT, IA, Data Science, Automation...
 
- - 💬 Suggestions and constructive criticism is always welcome!
+ - 💬 Suggestions are always welcome!
 
 #### Where You Can Find Me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-b85614?style=for-the-badge&logo=linkedin&logoColor=white)
