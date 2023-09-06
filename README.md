@@ -4,8 +4,6 @@
 
 <p align="left">
    
-<img src="luiza-editado-2.png" min-width="400px" max-width="350px" width="350px" align="right">
-   
 Welcome to my GitHub...
  
  - 📚 Computer Engineering student at Universidade Federal do Espírito Santo (UFES).
@@ -17,9 +15,5 @@ Welcome to my GitHub...
 #### Where You Can Find Me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-b85614?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-b85614?style=for-the-badge&logo=instagram&logoColor=white)
- 
- ### Git Status <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width=30 alt="Git"/>
-<p align='center' gap='30px'>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=luizalaquini&show_icons=true&count_private=true&theme=dark" width=380></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalaquini&layout=compact&theme=dark" width=289></a>
-</p>
+
+<img src="luiza-editado-2.png">
