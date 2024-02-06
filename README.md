@@ -7,9 +7,9 @@
    
 Welcome to my GitHub...
  
- - 📚 Computer Engineering student at Universidade Federal do Espírito Santo (UFES).
+ - 📚 Computer Engineer graduated from Universidade Federal do Espírito Santo (UFES).
 
- - 🌱 IoT, IA, Data Science, Automation...
+ - 🌱 Data Science, IA, IoT, Automation...
 
  - 💬 Suggestions are always welcome!
 
