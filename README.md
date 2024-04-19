@@ -17,7 +17,8 @@ Welcome to my GitHub...
 
  - 💬 Suggestions are always welcome!
 
-### Where You Can Find Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0047ff?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-0047ff?style=for-the-badge&logo=instagram&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-0047ff?style=for-the-badge&logo=medium&logoColor=white)
+### You can also find me on...
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luizalaquini/)
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@luizalaquini)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luizalaquini/)
