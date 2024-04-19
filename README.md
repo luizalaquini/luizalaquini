@@ -9,9 +9,9 @@ Welcome to my GitHub...
 
  - 👩🏼‍💻 Data Scientist at MadeinWeb
 
- - 📚 Mastering in Data Science and Analytics
+ - 📚 Mastering in Data Science and Analytics at USP
  
- - 🎓 Computer Engineer graduated from UFES.
+ - 🎓 Computer Engineer graduated at UFES
 
  - 🌱 Generative IA enthusiast
 
