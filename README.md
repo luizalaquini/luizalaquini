@@ -6,13 +6,18 @@
 <img src="luiza-editado-2.png" width="400px" align="right">
    
 Welcome to my GitHub...
+
+ - 👩🏼‍💻 Data Scientist at MadeinWeb
+
+ - 📚 Mastering in Data Science and Analytics
  
  - 🎓 Computer Engineer graduated from UFES.
 
- - 🌱 Data Science, IA, IoT, Automation...
+ - 🌱 Generative IA enthusiast
 
  - 💬 Suggestions are always welcome!
 
 ### Where You Can Find Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-b85614?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-b85614?style=for-the-badge&logo=instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0047ff?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-0047ff?style=for-the-badge&logo=instagram&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-0047ff?style=for-the-badge&logo=medium&logoColor=white)
