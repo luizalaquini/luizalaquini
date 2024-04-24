@@ -13,7 +13,7 @@ Welcome to my GitHub...
  
  - 🎓 Computer Engineer graduated at UFES
 
- - 🌱 Generative IA enthusiast
+ - 🌱 Generative AI enthusiast
 
  - 💬 Suggestions are always welcome!
 
