@@ -7,7 +7,7 @@
    
 Welcome to my GitHub...
 
-- 👩🏼‍💻 Data Scientist focused on Generative AI at MadeinWeb
+- 👩🏼‍💻 Senior Data Scientist focused on Generative AI at MadeinWeb
 - 🎓 Specialist in Data Science & Analytics (USP/Esalq MBA)
 - 🧠 Computer Engineer (UFES)
 - 🤖 Applying LLMs to real business problems
