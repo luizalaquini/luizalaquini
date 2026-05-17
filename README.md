@@ -3,7 +3,7 @@
 </h1>
 <p align="left">
 
-<img src="luiza-editado-2.png" width="400px" align="right">
+<img src="caricatura_gpt.jpg" width="300px" align="right">
    
 Welcome to my GitHub...
 
